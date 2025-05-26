@@ -2,4 +2,4 @@
 
 ## Можно посмотреть здесь
 
-[Первая работа с HTML & CSS - СанТехPRO] (https://https://bogomol-coder.github.io/-PRO/)
+[Первая работа с HTML & CSS - СанТехPRO] (//https://bogomol-coder.github.io/-PRO/)
